@@ -1,0 +1,49 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Circular_Linked_lists.Main",
+            "projectName": "Data Structures and algorithms_2d632150"
+        },
+        {
+            "type": "java",
+            "name": "Main(1)",
+            "request": "launch",
+            "mainClass": "Doubly_Linked_Lists.Main",
+            "projectName": "Data Structures and algorithms_2d632150"
+        },
+        {
+            "type": "java",
+            "name": "Main(2)",
+            "request": "launch",
+            "mainClass": "SingleDimensionArray.Main",
+            "projectName": "Data Structures and algorithms_2d632150"
+        },
+        {
+            "type": "java",
+            "name": "Main(3)",
+            "request": "launch",
+            "mainClass": "SinglyLinkedList.Main",
+            "projectName": "Data Structures and algorithms_2d632150"
+        },
+        {
+            "type": "java",
+            "name": "Main(4)",
+            "request": "launch",
+            "mainClass": "TwoDimensionArray.Main",
+            "projectName": "Data Structures and algorithms_2d632150"
+        }
+    ]
+}
