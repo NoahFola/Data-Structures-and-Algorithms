@@ -8,6 +8,20 @@
             "type": "java",
             "name": "Main",
             "request": "launch",
+            "mainClass": "LinkedListPractice.Main",
+            "projectName": "Data Structures and algorithms_2d632150"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Linked_List_Practice.Main",
+            "projectName": "Data Structures and algorithms_2d632150"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
             "mainClass": "Circular_Doubly_Linked_Lists.Main",
             "projectName": "Data Structures and algorithms_2d632150"
         },
